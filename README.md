@@ -15,7 +15,7 @@
 </div>
 
 ### 👨 About Me : 
-I'm Pathum Nadeera, a 3rd year Information Technology Undergraduate at SLIIT, Sri Lanka.
+I'm Pathum Nadeera, a 4th year Information Technology Undergraduate at SLIIT, Sri Lanka.
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on web development related projects.
